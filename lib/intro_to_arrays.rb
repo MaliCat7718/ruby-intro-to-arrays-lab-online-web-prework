@@ -9,6 +9,6 @@ end
 
 taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
 
-def first_element  
+def first_element
   taylor_swift[1]
 end
